@@ -1,4 +1,4 @@
-Hello {
+class Hello {
 
 // this is my updations
 
